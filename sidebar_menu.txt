@@ -1,0 +1,33 @@
+<div class="sidebar">
+                    <ul>
+                        <li><a class="main-btn" href=# data-before="▶ Информация о соревнованиях" data-after="▼ Информация о соревнованиях"></a>
+                            <ul class="dropdown">
+                                <li><a class="minor-btn" href="index.html">Новостная лента</a></li>
+                                <li><a class="minor-btn" href="about_project.html">О проекте</a></li>
+                                <li><a class="minor-btn" href="near_olympics.html">Информация о ближайших олимпиадах</a></li>
+                                <li><a class="minor-btn" href="rating.html">Рейтинг учеников</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a class="main-btn" href=# data-before="▶ Разбор задач от пользователей" data-after="▼ Разбор задач от пользователей"></a>
+                            <ul class="dropdown">
+                                <li><a class="minor-btn" href="last_olymp.html">Разбор задач последней олимпиады</a></li>
+                                <li><a class="minor-btn" href="archive.html">Архив разборов</a></li>
+                            </ul>
+                        </li>
+
+                        <li><a class="main-btn" href="https://axelofan.github.io/kumir/" target="_blank">Песочница для Робота</a></li>
+
+                        <li><a class="main-btn" href=# data-before="▶ УМК Босова" data-after="▼ УМК Босова"></a>
+                            <ul class="dropdown">
+                                <li><a class="minor-btn" href="bosova8.html">Босова 8</a></li>
+                                <li><a class="minor-btn" href="bosova9.html">Босова 9</a></li>
+                            </ul>
+                        </li>
+
+                        
+                        <li><a class="main-btn" href="https://sgo.volganet.ru/" target="_blank">АСУ СГО (дневники и журналы)</a></li>
+                        <li><a class="main-btn" href="https://www.ir-tech.ru/?products=msoko">Ресурсы МСОКО</a></li>
+
+                    </ul>
+                </div>
